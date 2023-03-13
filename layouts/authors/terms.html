@@ -1,0 +1,19 @@
+{{ define "body_classes" }}page-blog-list author-terms{{ end }}
+
+{{ define "main" }}
+  <h1>The Stoics</h1>
+  {{ range .Data.Pages }}
+    {{ .Params.title }}
+    <div class="blog">
+      <div class="intro">
+        <h2>{{ .Params.name }}<span class="dot">.</span></h2>
+        {{ if .Params.photo }}
+        <img src="{{ relURL .Params.photo }}" />
+        {{ end }}
+      </div>
+      <div class="content">
+        <h2>Bio</h2>
+        {{ .Content }}
+    </div>
+  {{ end }}
+{{ end }}

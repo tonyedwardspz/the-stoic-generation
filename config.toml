@@ -1,0 +1,50 @@
+baseURL = "/"
+languageCode = "en-gb"
+title = "The Stoic Generation"
+paginate = 8
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[permalinks]
+  topics = "/topic/:slug/"
+  posts = "/quotes/:slug/:title"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[taxonomies]
+  author = "authors"
+  topics = "topics"
+  category = "categories"
+
+[params]
+  google_analytics_id = ""
+  twitter_handle = ""
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = true
+  showPostsOnHomepage = false
+  addDot = true
+  addFrame = true
+  highlightColor = '#7b16ff'
+  baseColor = "#ffffff"
+  baseOffsetColor = "#eaeaea"
+  headingColor = "#1c1b1d"
+  textColor = "#4e5157"
+  dotColor = "#7b16ff"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+
+[menu]
+  [[menu.main]]
+    name = "Topics"
+    identifier = "topics"
+    weight = 300
+    url = "/topics/"

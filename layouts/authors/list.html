@@ -1,0 +1,23 @@
+{{ define "body_classes" }}page-blog-list author-list{{ end }}
+
+{{ define "main" }}
+  <div class="blog">
+    <div class="intro">
+      <h1>{{ .Params.name }}{{ if .Site.Params.addDot }}<span class="dot">.</span>{{ end }}</h1>
+      {{ if .Params.photo }}
+      <img src="{{ .Params.photo | relURL }}" />
+      {{ end }}
+    </div>
+    <div class="content">
+      <h2>Bio</h2>
+      {{ .Content }}
+
+      <h2>Articles</h2>
+      <ul>
+      {{ range .Data.Pages }}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+      </ul>
+    </div>
+  </div>
+{{ end }}
