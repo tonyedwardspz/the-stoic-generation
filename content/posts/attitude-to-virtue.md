@@ -21,7 +21,7 @@ In this passage of the letter, I disagree with Aristotle's classification of peo
 - The virtuous 
 - The continent
 - The incontinent
-- The vicious. 
+- The vicious
  
 Aristotle believed that the virtuous are naturally inclined to do what is right, the continent can resist temptation with effort, the incontinent are unable to resist temptation even with effort, and the vicious have lost the capacity for virtuous action altogether. He does not account for the potential of changing with the right attitude, mentorship and teaching.
 
