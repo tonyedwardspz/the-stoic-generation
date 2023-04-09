@@ -2,11 +2,12 @@
 name: Zeno
 title: Merchant, Mathematician, and Philosopher
 photo: "images/authors/zeno.jpg"
+years: c. 334 – c. 262 BC
 image-author: Paolo Monti - Servizio fotografico (Napoli, 1969)
 image-source: "https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_(Napoli,_1969)_-_BEIC_6353768.jpg"
 ---
 
-I am Zeno, the founder of the school of stoic philosophy. My life has been dedicated to the pursuit of wisdom and virtue, and I have spent many years studying and reflecting on the nature of the universe and our place in it.
+I am Zeno, the founder of the school of stoic philosophy. My life has been dedicated to the pursuit of wisdom and virtue, and I have spent many years studying and reflecting on the nature of the universe and our place in it.<!--more-->
 
 I was born in Cyprus in 334 BC, and grew up in a world rich in culture and diversity. Cyprus was a place where people from all over the Mediterranean came together to trade and exchange ideas, and I was fortunate to have been exposed to many different cultures and ways of thinking from a young age. It was in this environment that I first became interested in philosophy, and I began to study the works of great thinkers such as Socrates and Plato.
 

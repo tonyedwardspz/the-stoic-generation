@@ -2,11 +2,12 @@
 name: Marcus Aurelius
 title: Emperor
 photo: "images/authors/marcus-aurelius.jpg"
+years: 121 CE - 180 CE
 image-author: Steven Zucker
 image-source: "https://www.flickr.com/photos/profzucker/51083153147/in/photostream/"
 ---
 
-I, Marcus Aurelius, was born into a prominent family in the Roman Empire in 121 AD. As the son of a praetor and grandson of a consul, I was born into a life of privilege and wealth. Growing up in the heart of the Roman Empire, I was exposed to the finest education and cultural opportunities available. My childhood was marked by rigorous study and a thirst for knowledge, eventually leading me to become one of the most respected philosophers of my time.
+I, Marcus Aurelius, was born into a prominent family in the Roman Empire in 121 AD. As the son of a praetor and grandson of a consul, I was born into a life of privilege and wealth. Growing up in the heart of the Roman Empire, I was exposed to the finest education and cultural opportunities available. My childhood was marked by rigorous study and a thirst for knowledge, eventually leading me to become one of the most respected philosophers of my time.<!--more-->
 
 My early education was marked by the teaching of esteemed scholars like Apollonius of Chalcedon and Herodes Atticus. These individuals instilled in me a love of learning and a deep appreciation for the wisdom of philosophers. Their teachings, along with the guidance of my family, shaped my character and prepared me for the challenges I'd face as a leader in the Roman Empire.
 

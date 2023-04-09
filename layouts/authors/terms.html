@@ -3,17 +3,18 @@
 {{ define "main" }}
   <h1>The Stoics</h1>
   {{ range .Data.Pages }}
-    {{ .Params.title }}
     <div class="blog">
       <div class="intro">
         <h2>{{ .Params.name }}<span class="dot">.</span></h2>
+        <p>{{ .Params.years }} - {{ .Params.title }}</p>
         {{ if .Params.photo }}
         <img src="{{ relURL .Params.photo }}" />
         {{ end }}
       </div>
       <div class="content">
         <h2>Bio</h2>
-        {{ .Content }}
+        {{ .Summary }}
+        <a href="{{ .Permalink }}" class="read-more">Read My Bio</a>
     </div>
   {{ end }}
 {{ end }}

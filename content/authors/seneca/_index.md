@@ -1,8 +1,8 @@
 ---
 name: Seneca
 title: Landed Gentry
+years: c. 1 BCE – c. 65 CE
 photo: "images/authors/seneca.jpg"
 ---
 
-Ursula Kroeber Le Guin (October 21, 1929 – January 22, 2018) was an American
-novelist. The New York Times described her as “America’s greatest  science fiction writer”, although she said that she would prefer to be known as an “American novelist”.
+I was born in Corduba (Spain) in 1 BCE before moving to Rome for an education in rhetoric and philosophy. I had a highly successful, if dramatic, political career. Whilst I've never considered myself a stoic, my openness to sharing good ideas has allowed me to proliferate them down through the ages.<!--more-->

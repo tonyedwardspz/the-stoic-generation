@@ -298,6 +298,21 @@ ul {
   .summary .summary-description {
     width: 80%; }
 
+.read-more {
+  display: inline-block;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: var(--highlight-color);
+  color: var(--base-color);
+  text-decoration: none; }
+
+a:link.read-more {
+  text-decoration: none; }
+
+.read-more:hover {
+  filter: brightness(0.85);
+  color: var(--base-color); }
+
 .author {
   margin-top: 30px;
   margin-bottom: 30px;
