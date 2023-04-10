@@ -1,5 +1,5 @@
 ---
-title: Wealth is not one of the good things. Moderation is.
+title: Wealth is not one of the good things. Moderation is
 topics:
     - Wealth
     - Moderation

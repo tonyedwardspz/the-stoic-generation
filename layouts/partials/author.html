@@ -4,7 +4,7 @@
     {{ $name := . }}
     {{ $path := printf "/%s/%s" "authors" ($name | urlize) }}
     {{ with $.Site.GetPage $path }}
-      <img width="50" class="author-image" src="/images{{ $path }}-small.jpg" />
+      <img width="30" class="author-image" src="/images{{ $path }}-small.jpg" />
       <span class="author-name">{{ .Params.name }}</span>
       <span class="author-divider"></span>
     {{ end }}
