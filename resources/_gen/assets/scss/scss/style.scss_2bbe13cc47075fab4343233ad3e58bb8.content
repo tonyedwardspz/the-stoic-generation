@@ -234,7 +234,7 @@ ul {
     list-style: decimal; }
 
 .intro {
-  margin-bottom: 60px; }
+  margin-bottom: 30px; }
   .intro h1 {
     font-size: 48px;
     line-height: 56px;
@@ -251,9 +251,6 @@ ul {
   .intro h2 {
     font-size: 50px;
     line-height: 56px; }
-    @media (min-width: 767px) {
-      .intro h2 {
-        width: 80%; } }
   .intro p {
     font-size: 20px;
     line-height: 26px; }
@@ -272,6 +269,8 @@ ul {
         line-height: 32px; } }
   .intro img {
     max-width: 100%; }
+  .intro a:hover {
+    text-decoration: none; }
 
 .summary {
   margin-bottom: 50px;

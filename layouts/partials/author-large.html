@@ -1,11 +1,8 @@
 <div class="author author-large">
-  {{ range .Param "authors" }}
-  {{ $name := . }}
-  {{ $path := printf "/%s/%s" "authors" ($name | urlize) }}
-    {{ with $.Site.GetPage $path }}
-      <img width="50" class="author-image" src="src="/images{{ $path }}-small.jpg"" alt="{{ .Params.name }} headshot" />
-      <span class="author-name">{{ .Params.name }}</span>
-      <span class="author-title">{{ .Params.title }}</span>
-    {{ end }}
-  {{ end }}
+  <a href="{{ .Permalink }}">
+    <img width="50" class="author-image" src="{{ relURL .Params.photo }}" alt="{{ .Params.name }} headshot" />
+    <span class="author-name">
+      <h2>{{ .Params.name }}<span class="dot">.</span></h2>
+    </span>
+  </a>
 </div>

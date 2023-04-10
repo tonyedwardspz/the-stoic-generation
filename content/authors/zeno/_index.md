@@ -9,9 +9,9 @@ image-source: "https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fo
 
 I am Zeno, the founder of the school of stoic philosophy. My life has been dedicated to the pursuit of wisdom and virtue, and I have spent many years studying and reflecting on the nature of the universe and our place in it.<!--more-->
 
-I was born in Cyprus in 334 BC, and grew up in a world rich in culture and diversity. Cyprus was a place where people from all over the Mediterranean came together to trade and exchange ideas, and I was fortunate to have been exposed to many different cultures and ways of thinking from a young age. It was in this environment that I first became interested in philosophy, and I began to study the works of great thinkers such as Socrates and Plato.
+I was born in Cyprus in 334 BC, and grew up in a world rich in culture and diversity. Cyprus was a place where people from all over the Mediterranean came together to trade and exchange ideas, and I was fortunate to have been exposed to many different cultures and ways of thinking from a young age. It was in this environment that I first became interested in philosophy, and began to study the works of great thinkers such as Socrates and Plato.
 
-However, as much as I loved my life in Cyprus, I knew there was more to be learned and experienced beyond my tiny island home. In 312 BC, I left Cyprus and moved to Athens, the intellectual centre of the ancient world. It was in Athens that I could fully immerse myself in the world of philosophy and learn from some of the greatest minds of my time.
+However, as much as I loved life in Cyprus, I knew there was more to be learned and experienced beyond such a tiny island home. In 312 BC, I left for Athens, the intellectual centre of the ancient world. It was in Athens that I could fully immerse myself in the world of philosophy and learn from some of the greatest minds of my time.
 
 ## Life in Athens
 
@@ -49,18 +49,7 @@ The students who listened to my lectures were typically young men from various b
 
 In some ways, the early days of the School of Stoicism were similar to a modern-day university classroom. Like a university professor, I was committed to sharing my ideas and insights with a diverse group of students and helping them to develop their personal philosophical perspectives. However, there were also some key differences. Unlike modern universities, which are often characterised by rigid academic structures and a focus on career preparation, the School of Stoicism was more concerned with personal growth and the pursuit of wisdom for its own sake. Additionally, the format of my lectures was much more conversational and informal than expected from a modern-day professor, with plenty of opportunities for questions, debate, and discussion among students.
 
-Here is a timeline of some of the key dates in the history of the school of stoicism:
-
- •  301 BC: Zeno of Citium founds the school of stoicism in Athens.
- •  280 BC: Cleanthes becomes a student of Zeno and eventually succeeds him as the head of the school.
- •  233 BC: Chrysippus becomes a student of Cleanthes and makes many significant contributions to stoic philosophy.
- •  161-180 AD: The Roman emperor Marcus Aurelius, a devoted stoic, writes the famous work "Meditations."
- •  1st-2nd century AD: Epictetus, a former slave turned philosopher, teaches stoic philosophy and writes "The Discourses."
- •  2nd-3rd century AD: The stoic philosopher and writer Seneca serves as a tutor and advisor to the Roman emperor Nero.
- •  3rd century AD: The Roman emperor Julian, also known as Julian the Apostate, is influenced by stoic philosophy and writes several works on the subject.
- •  529 AD: The Christian emperor Justinian I closes the schools of philosophy in Athens, including the school of stoicism, as part of his efforts to suppress non-Christian teachings.
-
-Throughout its existence, the school of stoicism has profoundly influenced philosophy, culture, religion, and the lives of countless individuals throughout history. Its rediscovery in the 16th century means the school's teachings can inspire and guide people daily, thousands of years after its founding.
+Throughout its existence between 301 BC and 529 AD, the school of stoicism has profoundly influenced philosophy, culture, religion, and the lives of countless individuals throughout history. Its rediscovery in the 16th century means the school's teachings can inspire and guide people daily, thousands of years after its founding.
 
 ## A controlled end 
 

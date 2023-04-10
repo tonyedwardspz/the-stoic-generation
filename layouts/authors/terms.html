@@ -4,15 +4,13 @@
   <h1>The Stoics</h1>
   {{ range .Data.Pages }}
     <div class="blog">
-      <div class="intro">
-        <h2>{{ .Params.name }}<span class="dot">.</span></h2>
-        <p>{{ .Params.years }} - {{ .Params.title }}</p>
+      <div class="intro author--intro">
         {{ if .Params.photo }}
-        <img src="{{ relURL .Params.photo }}" />
+          {{ partial "author-large.html" . }}
         {{ end }}
+        <p>{{ .Params.years }}</p>
       </div>
       <div class="content">
-        <h2>Bio</h2>
         {{ .Summary }}
         <a href="{{ .Permalink }}" class="read-more">Read My Bio</a>
     </div>
