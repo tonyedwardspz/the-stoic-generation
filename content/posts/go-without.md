@@ -1,7 +1,7 @@
 ---
 title: Be content to go without
 topics:
-    - VLive with less
+    - Live with less
     - Daily Practice
     - Simple Life
 authors:

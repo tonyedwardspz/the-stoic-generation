@@ -2,7 +2,7 @@
 title: Train your thoughts
 date: 2018-06-07
 topics:
-    - Control you thoughts
+    - Control your thoughts
     - Mental Training
 authors:
     - Marcus Aurelius

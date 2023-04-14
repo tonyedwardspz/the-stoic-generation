@@ -2,7 +2,7 @@
 title: Caretake this moment
 topics:
     - Present Moment
-    - Challenged
+    - Challenges
 authors:
     - Epictetus
 slug: epictetus

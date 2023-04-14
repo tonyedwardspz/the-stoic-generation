@@ -1,7 +1,7 @@
 ---
 title: Train your thoughts
 topics:
-    - Control you thoughts
+    - Control your thoughts
     - Mental Training
 authors:
     - Marcus Aurelius

@@ -3,6 +3,7 @@ title: Why wait to live until you retire?
 topics:
     - Putting things off
     - Hobbies
+    - Live today
 authors:
     - Seneca
 slug: seneca
