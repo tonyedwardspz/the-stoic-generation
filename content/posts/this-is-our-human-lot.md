@@ -10,7 +10,7 @@ slug: epictetus
 book:
     - Enchiridion
 reference: 26
-date: 2023-03-14
+date: 2023-04-14
 description: "Our philosophy emphasises the cultivation of a balanced perspective when facing life's adversities is explored, urging us to view our own misfortunes with the same equanimity we demonstrate when confronted with the adversities others face. By nurturing self-awareness and empathy, we transcend self-centeredness and recognize our shared human condition. These principles guide us towards a life of wisdom, tranquility, and contentment, regardless of the challenges we encounter."
 ---
 

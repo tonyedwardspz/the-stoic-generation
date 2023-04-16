@@ -1,5 +1,5 @@
 ---
-title: This is our human lot
+title: A groveler isn't really free
 topics:
     - Autonomy
     - Grovelling to live
@@ -10,11 +10,11 @@ slug: epictetus
 book:
     - Discourses
 reference: 4.1.35
-date: 2023-03-14
+date: 2023-04-13
 description: "Transcending servitude through inner autonomy and self-mastery is central to becoming autonomous, highlighted by the perils of grovelling for life's necessities. By upholding personal integrity and embracing Stoic virtues, one liberates oneself from the shackles of dependency and subservience. Unwavering commitment to these principles paves the path to true freedom, empowering the individual to stand resolute amid life's capricious tides."
 ---
 
-> "When you see someone grovelling before another man, or flattering him contrary to his own opinion, you can confidently say he is not free. And not only if he does this for a mere dinner, but also if it is for the sake of a prefecture or consulship. People who do these things for petty ends you can call petty slaves, while those who do them for grand purposes can be called mega slaves, as they deserve."
+> "When you see someone grovelling before another, or flattering them contrary to his own opinion, you can confidently say he is not free. And not only if he does this for a mere dinner, but also if it is for the sake of a prefecture or consulship. People who do these things for petty ends you can call petty slaves, while those who do them for grand purposes can be called grand slaves, as they deserve."
 
 My esteemed student, your inquiry about this lesson delves into the core of our shared principles. I'm gratified to see that you continue to reflect upon this teaching and apply it to your daily life. Allow me to expand the underlying wisdom behind these words, for they explore the true essence of freedom and the path to autonomy that leads towards it.
 
