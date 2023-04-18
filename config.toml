@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://thestoicgeneration.com"
 languageCode = "en-gb"
 title = "The Stoic Generation"
 paginate = 8
