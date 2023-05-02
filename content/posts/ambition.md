@@ -1,4 +1,3 @@
-
 ---
 title: The Path to Wisdom: Balancing Ambition and Gratitude
 topics:
