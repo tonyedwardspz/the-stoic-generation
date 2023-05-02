@@ -1,5 +1,5 @@
 ---
-title: Quick-wittedness is not enough alone.
+title: Quick-wittedness is not enough alone
 topics:
     - Personal Growth
     - Character Building

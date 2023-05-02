@@ -1,5 +1,5 @@
 ---
-title: Avoid excess in all of it's forms
+title: Avoid excess in all its forms
 topics:
     - Moderation
     - Avoiding Excess
@@ -12,7 +12,9 @@ book:
     - Enchiridion
 reference: 41
 date: 2023-04-29
-description: "Lets explore the importance of avoiding excess and indulgence in our lives. Allow everyday actions to become the background to our lives, rather than the center piece. By focusing on moderation and cultivating the mind, you will lead yourself towards a more fulfilling life."
+image: images/posts/avoiding-excess.jpg
+imageSource: https://creator.nightcafe.studio/creation/cjAJymcX05ppc9yp7Ib6
+description: Lets explore the importance of avoiding excess and indulgence in our lives. Allow everyday actions to become the background to our lives, rather than the center piece. By focusing on moderation and cultivating the mind, you will lead yourself towards a more fulfilling life.
 ---
 
 > "It shows a lack of natural talent to spend much time on bodily activities, as by being excessive in exercise, excessive in eating and drinking, excessive in emptying the bowels and in copulating. These things should be done incidentally, and our attention should be devoted to the mind."
