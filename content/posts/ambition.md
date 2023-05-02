@@ -1,5 +1,5 @@
 ---
-title: The Path to Wisdom:\ Balancing Ambition and Gratitude
+title: The Path to Wisdom is in balancing ambition with gratitude
 topics:
     - Personal Growth
     - Self-reflection
